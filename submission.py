@@ -6,7 +6,7 @@ from pathlib import Path
 
 BASE_URL = "http://34.63.153.158" #donot change
 
-API_KEY  = "93684f2bf1d14acedf752c31dbecc931"  # REPLACE WITH YOUR API KEY
+API_KEY  = ""  # REPLACE WITH YOUR API KEY
 
 TASK_ID   = "22-forging-task" #donot change
 
